@@ -1,7 +1,7 @@
-#Data Scientist
+Data Scientist
 
-#Education
+Education
 
-#Experience
+Experience
 
-#Projects
+Projects
